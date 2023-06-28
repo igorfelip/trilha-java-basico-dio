@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="87da0718-a9d2-427e-8ec3-1b0f01437325" name="Changes" comment="" />
+    <list default="true" id="87da0718-a9d2-427e-8ec3-1b0f01437325" name="Changes" comment="Conta bancaria para projeto dio" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -19,6 +19,7 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="UPDATE_TYPE" value="REBASE" />
   </component>
   <component name="GitHubPullRequestSearchHistory"><![CDATA[{
   "lastFilter": {
@@ -54,6 +55,28 @@
       <option name="presentableId" value="Default" />
       <updated>1686930192147</updated>
     </task>
+    <task id="LOCAL-00001" summary="Conta bancaria para projeto dio">
+      <created>1687910820236</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1687910820237</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Conta bancaria para projeto dio">
+      <created>1687910915224</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1687910915224</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Conta bancaria para projeto dio">
+      <created>1687911027448</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1687911027448</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -66,5 +89,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Conta bancaria para projeto dio" />
+    <option name="LAST_COMMIT_MESSAGE" value="Conta bancaria para projeto dio" />
   </component>
 </project>
